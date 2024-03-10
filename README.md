@@ -11,11 +11,11 @@ I'm currently working on DSA, OOP in C++ and MERN Stack Development<br>I'm looki
 ![](https://github-readme-stats.vercel.app/api?username=abirxgpt&theme=maroongold&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abirxgpt&theme=maroongold&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abirxgpt&theme=maroongold&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 😂 Random Dev Meme
+###
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+###
 
 <img src="https://raw.githubusercontent.com/abirxgpt/abirxgpt/output/snake.svg" alt="Snake animation" />
 
@@ -28,3 +28,17 @@ I'm currently working on DSA, OOP in C++ and MERN Stack Development<br>I'm looki
 </div>
 
 ###
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abirxgpt&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+###
+
+### 🔝 My Repos
+![](https://github-contributor-stats.vercel.app/api?username=abirxgpt&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=abirxgpt&icon=0&color=7)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
