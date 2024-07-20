@@ -29,16 +29,4 @@ I'm currently working on DSA, OOP in C++ and MERN Stack Development<br>I'm looki
 
 ###
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abirxgpt&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-###
-
-### 🔝 My Repos
-![](https://github-contributor-stats.vercel.app/api?username=abirxgpt&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=abirxgpt&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
