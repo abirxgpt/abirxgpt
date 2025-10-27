@@ -25,7 +25,7 @@
 🏆 **Global Rank #1** in SQL on HackerRank  
 🥇 **Academic Topper** - 1st Rank in Section A (3rd & 4th Semesters)  
 💡 **Secretary & VP** of Programming and Competitive Coding Club  
-🔬 Currently working on **Brain Tumor Detection** using U-Net Deep Learning  
+🔬 Currently working on **Deep Fake Detection** using Deep Learning and VLMs
 
 ---
 
