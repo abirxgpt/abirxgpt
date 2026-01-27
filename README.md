@@ -363,7 +363,15 @@ Research & Writing       ██████████████████�
 <h2 align="center">📊 Weekly Coding Statistics</h2>
 
 <!--START_SECTION:waka-->
-<!-- This section will be auto-updated by GitHub Actions with WakaTime stats -->
+
+```txt
+From: 19 January 2026 - To: 26 January 2026
+
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ---
